@@ -7,7 +7,7 @@ java.runtime.version=17
 1. Crear cuenta en GitHub y Heroku
 2. Tener configurado un git en el pc
     1. git config --global user.name "NOMBRE"
-   2. git config --global user.email EMAIL
+    2. git config --global user.email EMAIL
 3. Subir el proyecto a GitHub desde IntelliJ IDEA desde la opción: VCS > Share project on GitHub
 4.  Desde Heroku, crear app y elegir método GitHub y buscar el repositorio subido
 5. Habilitar deploy automático,  ejecutar el Deploy
